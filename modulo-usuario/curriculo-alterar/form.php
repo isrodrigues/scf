@@ -98,6 +98,8 @@
                     }
                 ?>
             </select>
+                <label for="ano-conclusao">Ano de Conclusão:</label>
+            <input type="number" name="ano-conclusao"/>
     </fieldset>
    
     <input type="submit" value="Alterar"/>
