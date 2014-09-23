@@ -3,7 +3,13 @@
     <div>Nome: <?=></div>
     <div>Sexo: <?=></div>    
     <div>Estado Civil: <?=></div>
-          
+    <div>Endereço: <?=></div>
+    <div>Número: <?=></div>
+    <div>Complemento: <?=></div>
+    <div>Bairro: <?=></div>
+    <div>Cidade: <?=></div>
+    <div>Complemento: <?=></div>
+    <div>Estado: <?=></div>
     
     <hr/>
     
